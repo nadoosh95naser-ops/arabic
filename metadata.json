@@ -1,0 +1,8 @@
+{
+  "name": "رحلة عبر الزمن اللغوي – الفعل بين الزمن والمعنى",
+  "description": "موقع تعليمي عربي تفاعلي لطلبة الصف الخامس الأساسي وفق المنهاج الفلسطيني لاكتشاف أنواع الفعل الثلاثة: الماضي والمضارع والأمر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
